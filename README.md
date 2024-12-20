@@ -20,15 +20,7 @@ A responsive clothing store built using HTML, CSS, JavaScript, and Bootstrap. In
 
 - **Social Media Links**: Easily accessible social media icons for platforms like Facebook, Instagram, and Twitter to help users connect with the brand.
 
-## How to Run
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yngjesus/clothing-store.git
-    cd clothing-store
-    ```
-
-2. Open `index.html` in your browser to view the site.
 
 
 
@@ -39,7 +31,4 @@ A responsive clothing store built using HTML, CSS, JavaScript, and Bootstrap. In
 - Bootstrap
 - LocalStorage (for saving cart and wishlist)
 
-## Author
-**Baha Jdidi**
-- **Linkedin**: https://www.linkedin.com/in/bahaeddinejdidi/
-- **Email**: bahajedidi2016@gmail.com
+
